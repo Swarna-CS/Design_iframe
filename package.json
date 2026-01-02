@@ -1,0 +1,23 @@
+{
+  "name": "design_iframe",
+  "version": "1.0.0",
+  "description": "my first app",
+  "homepage": "https://github.com/Swarna-CS/Design_iframe#readme",
+  "bugs": {
+    "url": "https://github.com/Swarna-CS/Design_iframe/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swarna-CS/Design_iframe.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
